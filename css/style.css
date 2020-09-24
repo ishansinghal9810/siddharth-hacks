@@ -1675,3 +1675,13 @@ html.w-mod-js *[data-ix="awwwwwards"] {
         width: 25%;
     }
  }
+
+
+
+
+
+.gallery img {
+  float: left;
+  padding: 0 2px 2px 0;
+  /* Yes, you *can* adjust/remove padding. */
+}
